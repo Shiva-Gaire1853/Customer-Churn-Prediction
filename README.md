@@ -33,12 +33,12 @@ cd ANN_Project
 python -m venv environment_name
 ```
 
-## Activate the Virtual Environment
-### On Windows
+### Activate the Virtual Environment
+#### On Windows
 ``` bash
 environment_name\Scripts\Activate
 ```
-## On macOS and Linux:
+### On macOS and Linux:
 ``` bash
 source environment_name/bin/Activate
 ```
