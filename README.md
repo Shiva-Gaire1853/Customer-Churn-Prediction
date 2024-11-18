@@ -50,7 +50,7 @@ source environment_name/bin/Activate
 pip install -r requirements.txt
 ```
 
-# Usage
+## Usage
 
 ## Run the Streamlit Server
 ```bash
@@ -58,16 +58,11 @@ streamlit run app.py
 ```
 
 
-# Screen Shots 
+## Screen Shots 
 
-## Customer Churn Prediction Overview
-
-
+#### Customer Churn Prediction Overview
 
 
 
 
-## Authors
-
-- [@octokatherine](https://github.com/Shiva-Gaire1853)
 
