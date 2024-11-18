@@ -58,9 +58,11 @@ streamlit run app.py
 ```
 
 
-## Screen Shots 
+## Project Overview
 
-#### Customer Churn Prediction Overview
+```bash
+https://s22jkf4usw7eurlux78f2d.streamlit.app/
+```
 
 
 
